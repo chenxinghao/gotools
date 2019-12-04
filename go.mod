@@ -1,4 +1,4 @@
-module github.com/chenxinghao/gotools
+module github.com/chenxinghao/GoTools
 
 go 1.13
 
